@@ -37,6 +37,20 @@
             <version>28.1-jre</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.zavtech</groupId>
+            <artifactId>morpheus-core</artifactId>
+            <version>0.9.1</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.zavtech/morpheus-viz -->
+        <dependency>
+            <groupId>com.zavtech</groupId>
+            <artifactId>morpheus-viz</artifactId>
+            <version>0.9.21</version>
+        </dependency>
+
+
     </dependencies>
     
 </project>
