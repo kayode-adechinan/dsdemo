@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05dc6b50-af3d-496d-9167-daf5b9496ce5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morpheusdemo/GettingStartedWithRegression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/effectivejava/EffectiveJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/dsdemo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MyLinearRegresssion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MyLinearRegresssion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/Array1D.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/Array1D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/Array2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/Array2D.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +37,7 @@
   <component name="ProjectId" id="1Sjv3gBlF9wzWv2dh3HDOjuqhva" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="public" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -58,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GettingStartedWithRegression">
+  <component name="RunManager" selected="Application.EffectiveJava">
     <configuration name="Array1D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.Array1D" />
       <module name="ds-demo" />
@@ -85,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EffectiveJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="effectivejava.EffectiveJava" />
+      <module name="ds-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GettingStartedWithRegression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="morpheusdemo.GettingStartedWithRegression" />
       <module name="ds-demo" />
@@ -98,34 +109,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinearRegresssion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyLinearRegresssion" />
+    <configuration name="MyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.MyArray" />
       <module name="ds-demo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SR" />
-      <module name="ds-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyLinearRegresssion" />
-      <item itemvalue="Application.SR" />
       <item itemvalue="Application.Array1D" />
       <item itemvalue="Application.Array2D" />
       <item itemvalue="Application.GettingStartedWithRegression" />
+      <item itemvalue="Application.MyArray" />
+      <item itemvalue="Application.EffectiveJava" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EffectiveJava" />
+        <item itemvalue="Application.MyArray" />
         <item itemvalue="Application.GettingStartedWithRegression" />
         <item itemvalue="Application.Array2D" />
         <item itemvalue="Application.Array1D" />
-        <item itemvalue="Application.Array1D" />
-        <item itemvalue="Application.SR" />
       </list>
     </recent_temporary>
   </component>
