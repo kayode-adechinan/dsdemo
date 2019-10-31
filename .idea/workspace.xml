@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05dc6b50-af3d-496d-9167-daf5b9496ce5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/effectivejava/CodingToInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/effectivejava/FactoryPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CorrelationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CorrelationDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LR.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LinearRegression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LinearRegression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LinearRegressionClassifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LinearRegressionClassifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Montecarlo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Montecarlo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MyLinearRegresssion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MyLinearRegresssion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SR.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SR.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="extract.method.default.visibility" value="public" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
@@ -53,13 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingletonDemo">
-    <configuration name="Array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.Array2D" />
+  <component name="RunManager" selected="Application.FactoryPattern">
+    <configuration name="CodingToInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="effectivejava.CodingToInterface" />
       <module name="ds-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="effectivejava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GettingStartedWithRegression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="morpheusdemo.GettingStartedWithRegression" />
+    <configuration name="FactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="effectivejava.FactoryPattern" />
       <module name="ds-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="morpheusdemo.*" />
+          <option name="PATTERN" value="effectivejava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,19 +130,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Array2D" />
-      <item itemvalue="Application.GettingStartedWithRegression" />
       <item itemvalue="Application.MyArray" />
       <item itemvalue="Application.EffectiveJava" />
       <item itemvalue="Application.SingletonDemo" />
+      <item itemvalue="Application.CodingToInterface" />
+      <item itemvalue="Application.FactoryPattern" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactoryPattern" />
+        <item itemvalue="Application.CodingToInterface" />
         <item itemvalue="Application.SingletonDemo" />
         <item itemvalue="Application.EffectiveJava" />
         <item itemvalue="Application.MyArray" />
-        <item itemvalue="Application.GettingStartedWithRegression" />
-        <item itemvalue="Application.Array2D" />
       </list>
     </recent_temporary>
   </component>
