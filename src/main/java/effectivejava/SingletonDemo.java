@@ -1,4 +1,4 @@
-package designpatterns;
+package effectivejava;
 
 // https://dzone.com/articles/java-singletons-using-enum
 

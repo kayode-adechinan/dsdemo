@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05dc6b50-af3d-496d-9167-daf5b9496ce5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/effectivejava/CodingToInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/effectivejava/FactoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/effectivejava/BuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/BinaryOperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/ConsummerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/FunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/PredicateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/SupplierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/UnaryOperatorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CorrelationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CorrelationDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LR.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LR.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LinearRegression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LinearRegression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LinearRegressionClassifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LinearRegressionClassifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Montecarlo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Montecarlo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MyLinearRegresssion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MyLinearRegresssion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SR.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/SingletonDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,10 +44,16 @@
   <component name="PropertiesComponent">
     <property name="extract.method.default.visibility" value="public" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactoryPattern">
+  <component name="RunManager" selected="Application.FunctionDemo">
     <configuration name="CodingToInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="effectivejava.CodingToInterface" />
       <module name="ds-demo" />
@@ -77,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EffectiveJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="effectivejava.EffectiveJava" />
+    <configuration name="ConsummerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionnalinterfaces.ConsummerDemo" />
       <module name="ds-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="effectivejava.*" />
+          <option name="PATTERN" value="functionnalinterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.MyArray" />
+    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionnalinterfaces.FunctionDemo" />
       <module name="ds-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="functionnalinterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.SingletonDemo" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.SingletonDemo" />
       <module name="ds-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns.*" />
+          <option name="PATTERN" value="effectivejava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,19 +134,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyArray" />
-      <item itemvalue="Application.EffectiveJava" />
       <item itemvalue="Application.SingletonDemo" />
       <item itemvalue="Application.CodingToInterface" />
       <item itemvalue="Application.FactoryPattern" />
+      <item itemvalue="Application.ConsummerDemo" />
+      <item itemvalue="Application.FunctionDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionDemo" />
+        <item itemvalue="Application.ConsummerDemo" />
         <item itemvalue="Application.FactoryPattern" />
         <item itemvalue="Application.CodingToInterface" />
         <item itemvalue="Application.SingletonDemo" />
-        <item itemvalue="Application.EffectiveJava" />
-        <item itemvalue="Application.MyArray" />
       </list>
     </recent_temporary>
   </component>
