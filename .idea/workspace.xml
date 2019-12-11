@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05dc6b50-af3d-496d-9167-daf5b9496ce5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/effectivejava/BuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/BinaryOperatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/ConsummerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/FunctionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/PredicateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/SupplierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionnalinterfaces/UnaryOperatorDemo.java" afterDir="false" />
+    <list default="true" id="9db82f5b-d168-42c8-adc2-72482226d841" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ds-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crypto/BlockChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regex/RegexDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regression/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regression/LinearRegressionModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regression/MathUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/regression/RegressionModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/SingletonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsdemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ds-demo.kotlin_module" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,48 +32,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="ProjectId" id="1Uptb0x71l3QliW2Fe9tPi1Iw4y" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="ProjectId" id="1Sjv3gBlF9wzWv2dh3HDOjuqhva" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="extract.method.default.visibility" value="public" />
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.FunctionDemo">
-    <configuration name="CodingToInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="effectivejava.CodingToInterface" />
+  <component name="RunManager">
+    <configuration name="RegexDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regex.RegexDemo" />
       <module name="ds-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="effectivejava.*" />
+          <option name="PATTERN" value="regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,96 +61,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsummerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionnalinterfaces.ConsummerDemo" />
-      <module name="ds-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="functionnalinterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="effectivejava.FactoryPattern" />
-      <module name="ds-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionnalinterfaces.FunctionDemo" />
-      <module name="ds-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="functionnalinterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="effectivejava.SingletonDemo" />
-      <module name="ds-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.SingletonDemo" />
-      <item itemvalue="Application.CodingToInterface" />
-      <item itemvalue="Application.FactoryPattern" />
-      <item itemvalue="Application.ConsummerDemo" />
-      <item itemvalue="Application.FunctionDemo" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FunctionDemo" />
-        <item itemvalue="Application.ConsummerDemo" />
-        <item itemvalue="Application.FactoryPattern" />
-        <item itemvalue="Application.CodingToInterface" />
-        <item itemvalue="Application.SingletonDemo" />
+        <item itemvalue="Application.RegexDemo" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="05dc6b50-af3d-496d-9167-daf5b9496ce5" name="Default Changelist" comment="" />
-      <created>1572089623268</created>
+      <changelist id="9db82f5b-d168-42c8-adc2-72482226d841" name="Default Changelist" comment="" />
+      <created>1576065431929</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572089623268</updated>
+      <updated>1576065431929</updated>
+      <workItem from="1576065477418" duration="2484000" />
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="29" width="800" height="672" key="#Project_Structure" timestamp="1576065756422">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="278" y="29" width="800" height="672" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1576065756422" />
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1576068641927">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576068641927" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1576068641925">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576068641925" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1576068641925">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576068641925" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1576068641926">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576068641926" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1576065882148">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1576065882148" />
   </component>
 </project>
